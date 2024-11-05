@@ -45,4 +45,10 @@
 
 ---
 
-౨ৎ ˖ ࣪⊹ Thank you for stopping by ◡̈! ౨ৎ ˖ ࣪⊹
+<p align="center">
+  ౨ৎ ˖ ࣪⊹ Thank you for stopping by ◡̈! ౨ৎ ˖ ࣪⊹
+  <br>
+  <br>
+<img src="https://i.pinimg.com/736x/f1/17/3d/f1173d68655ebeef345400bd772e26fe.jpg" alt="Banner" width="200"/>
+</p>
+
