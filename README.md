@@ -1,5 +1,5 @@
 # ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆Hello I'm Maryem⋆｡‧˚ʚ🎀ɞ˚‧｡⋆
-⋆˚౨ৎ ⋆.˚Welcome to my cute, cozy corner of GitHub! I’m am a passionate Health Informatics student at Technische Hochschule Deggendorf learning programming and web design by creating fun, wellness-focused projects⋆˚౨ৎ ⋆.˚
+⋆˚౨ৎ ⋆.˚Welcome to my cute, cozy corner of GitHub! I’m a passionate Health Informatics student at Technische Hochschule Deggendorf learning programming and web design by creating fun, wellness-focused projects⋆˚౨ৎ ⋆.˚
 <p align="center">ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ</p>
 
 ---
