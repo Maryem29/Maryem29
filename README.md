@@ -19,7 +19,7 @@
 - **Health Tracker Web App**‧₊˚🖇️✩ ₊˚🎧⊹♡
   <br>
   _An interactive app to help students track and visualize their health!_  
-  [Repository Link]((https://github.com/Maryem29/Health-Tracker.git))
+  [Repository Link](https://github.com/Maryem29/Health-Tracker.git)
 
 - **Wellness Tips Chatbot**𖦹ׂ ₊˚👾⊹⋆  
   _A chatbot that shares sweet wellness tips and reminders_  
