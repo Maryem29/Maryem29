@@ -42,7 +42,6 @@
 ## 🌸 Let’s Connect
 [![Website](https://img.shields.io/badge/-My%20Website-ff69b4?style=flat&logo=google-chrome&logoColor=white)](x)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryemabdellah29)
-
 [![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/153056224-rem)  
 
 ---
