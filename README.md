@@ -15,19 +15,19 @@
 
 ---
 
-## ˚ ༘ ೀ⋆｡ ˚Projects I’m Working On˚ ༘ ೀ⋆｡ ˚
-- **Health Tracker Web App**‧₊˚🖇️✩ ₊˚🎧⊹♡
+## ˚ ༘ ೀ⋆｡ ˚Projects Portfolio˚ ༘ ೀ⋆｡ ˚
+- **Slepp-Monitor for Healthcare Providers working Nightshifts**‧₊˚🖇️✩ ₊˚🎧⊹♡
   <br>
+  _A sleep quality monitor for healthcare providers working nightshifts. !_  
+  [Repository Link](https://github.com/Maryem29/Sleep-Monitor.git)
+
+- **EHR-website**𖦹ׂ ₊˚👾⊹⋆  
+  _EHR Information System for Doctors_  
+  [Repository Link](https://github.com/Maryem29/EHR-Project.git)
+
+- **Health Tracker Web App** ⋆⭒˚𖠋𖠋𖠋*.⋆  
   _An interactive app to help students track and visualize their health!_  
   [Repository Link](https://github.com/Maryem29/Health-Tracker.git)
-
-- **Wellness Tips Chatbot**𖦹ׂ ₊˚👾⊹⋆  
-  _A chatbot that shares sweet wellness tips and reminders_  
-  [Repository Link]()
-
-- **Health Data Visualizer** ⋆⭒˚𖠋𖠋𖠋*.⋆  
-  _Using real-world datasets to create colorful, informative charts_  
-  [Repository Link]()
 
 ---
 
